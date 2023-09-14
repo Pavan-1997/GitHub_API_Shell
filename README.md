@@ -3,7 +3,7 @@
 All the commands are written in shell and executed in Ubuntu Server 
 
 Steps to execute the file:
-
+ 
 1) Give permissions chmod 777 cmds.sh
 2) Pass parameters while excecuting as below:
 ./cmds.sh <GitHub-Token> /users/<GitHub-Username>/repos
