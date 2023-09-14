@@ -1,4 +1,4 @@
-# Shell Script to retrieve information from GitHub using GitHub Token, Username and REST API expression
+# Shell Script to retrieve information from GitHub using GitHub Token, Username and REST API expression 
  
 All the commands are written in shell and executed in Ubuntu Server
 
