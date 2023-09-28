@@ -1,7 +1,7 @@
 # Shell Script to retrieve information from GitHub using GitHub Token, Username and REST API expression    
     
 All the commands are written in shell and executed in Ubuntu Server  
-
+ 
 Steps to execute the file:
  
 1) Give permissions chmod 777 cmds.sh
