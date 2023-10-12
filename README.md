@@ -1,6 +1,6 @@
 # GitHub using API writtten in Shell Scripting
 
-## In this Project we will be listing the users that have permission to a repository in a GitHub account 
+## In this Project we will be listing the users that have permission to a repository in a GitHub account using Shell Scripting
 
 Shell Script to retrieve information from GitHub using GitHub Token, Username and REST API expression    
                  
