@@ -1,8 +1,6 @@
 # GitHub using API writtten in Shell Scripting
 
-## In this Project we will be listing the users that have permission to a repository in a GitHub account using Shell Scripting
-
-We have a shell Script written retrieve information about users from GitHub using GitHub Token, Username and REST API expression
+## In this Project we will be retrieving information from GitHub account using Shell Scripting
                  
 All the commands are written in shell and executed in Ubuntu Server  
   
@@ -30,10 +28,10 @@ chmod 777 cmds.sh
 ```
 
 
-5. Now execute the file by passing the parameters for GitHub Username and Repository Name
+5. Now execute the file by passing the parameters for GitHub Token and Rest Expression 
 
 ```
-./cmds.sh <User-Name> <Repository-Name>
+./cmds.sh <GitHub-Token> <Rest-Expression>
 ```
 
  
