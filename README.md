@@ -2,7 +2,7 @@
 
 ## In this Project we will be listing the users that have permission to a repository in a GitHub account using Shell Scripting
 
-Shell Script to retrieve information from GitHub using GitHub Token, Username and REST API expression    
+We have a shell Script written retrieve information about users from GitHub using GitHub Token, Username and REST API expression
                  
 All the commands are written in shell and executed in Ubuntu Server  
   
