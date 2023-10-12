@@ -6,12 +6,34 @@ We have a shell Script written retrieve information about users from GitHub usin
                  
 All the commands are written in shell and executed in Ubuntu Server  
   
-Steps to execute the file:
- 
-1) Give permissions chmod 777 cmds.sh
-2) Pass parameters while excecuting as below:
-./cmds.sh <GitHub-Token> /users/<GitHub-Username>/repos
-  
-  
- Now this gives a detailed information the repositories present for the GitHub User in form of JSON
 
+
+  
+1. Clone the repository
+
+```
+git clone https://github.com/Pavan-1997/GitHub_API_Shell.git
+```
+
+
+2. Install JQ to extract the data from JSON
+
+```
+sudo apy install jq -y
+```
+
+
+4. Give full permission to the cmds.sh file
+
+```
+chmod 777 cmds.sh
+```
+
+
+5. Now execute the file by passing the parameters for GitHub Username and Repository Name
+
+```
+./cmds.sh <User-Name> <Repository-Name>
+```
+
+ 
