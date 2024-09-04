@@ -73,7 +73,7 @@ sudo apy install jq -y
 4. Give full permission to the cmds.sh file
 
 ```
-chmod 777 cmds.sh
+chmod 777 cmds_orgaization.sh
 ```
 
 
